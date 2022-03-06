@@ -1,5 +1,5 @@
 """
-Pynotio is designed to be a really simple to use Python wrapper around the official Notion API.
+Pynotio is designed to be a really simple Python wrapper around the official Notion API.
 
 Ruslan Abkadirov [https://blog.ruslanabk.ru/]
 rusabk@yandex.ru
